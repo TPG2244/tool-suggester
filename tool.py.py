@@ -8,6 +8,15 @@ import json
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
+def display_banner():
+    """Display the tool's banner and author information."""
+    print("===============================")
+    print("        ADVANCE IP-TRACER      ")
+    print("       AUTHOR: AKHIL   ")
+    print("===============================")
+    print("      ONLY FOR EDUCATIONAL PURPOSE")
+    print("===============================\n")
+
 def check_url(url):
     try:
         response = requests.head(url, timeout=7, verify=False, allow_redirects=True)
