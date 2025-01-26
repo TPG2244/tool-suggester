@@ -8,15 +8,6 @@ import json
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
-def display_banner():
-    """Display the tool's banner and author information."""
-    print("===============================")
-    print("        ADVANCE TOOL SUGGESTER      ")
-    print("       AUTHOR: RONAK   ")
-    print("===============================")
-    print("      ONLY FOR EDUCATIONAL PURPOSE")
-    print("===============================\n")
-
 def check_url(url):
     try:
         response = requests.head(url, timeout=7, verify=False, allow_redirects=True)
@@ -79,6 +70,16 @@ bg_photo = ImageTk.PhotoImage(bg_image)
 background_label = tk.Label(root, image=bg_photo)
 background_label.place(relwidth=1, relheight=1)
 
+# Banner (showed as a label)
+banner_label = tk.Label(root, text="===============================\n"
+                                   "        ADVANCE TOOL SUGGESTER      \n"
+                                   "       AUTHOR: RONAK   \n"
+                                   "===============================\n"
+                                   "      ONLY FOR EDUCATIONAL PURPOSE\n"
+                                   "===============================", 
+                        font=("Consolas", 14), bg="black", fg="lime", justify="center")
+banner_label.pack(pady=10)
+
 style = ttk.Style()
 style.configure("TButton", font=("Consolas", 12), foreground="lime", background="black")
 
@@ -93,3 +94,5 @@ result_text.pack(pady=10)
 result_text.config(state=tk.DISABLED)
 
 root.mainloop()
+
+
