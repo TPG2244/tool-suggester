@@ -34,7 +34,7 @@ The interface includes **real-time charts**, a **terminal-style output**, and a 
 - Matplotlib – Data visualization**
 
 # 📸 **Screenshots**
-- 
+- https://ibb.co/JpLxRSf
 
 # ⚠ **Disclaimer**
 - **This tool is for educational purposes only. Do NOT use it on unauthorized websites. The developers are not responsible for any misuse**.
