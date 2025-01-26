@@ -70,6 +70,7 @@ def analyze_url():
 root = tk.Tk()
 root.title("Cyber Recon Dashboard")
 root.geometry("1200x700")
+root.resizable(False, False)
 
 # Load and set background image
 bg_image = Image.open("background.jpg")  # Change to your image path
