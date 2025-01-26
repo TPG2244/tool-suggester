@@ -1,0 +1,9 @@
+
+---
+
+### 📦 **requirements.txt**
+```txt
+pillow
+requests
+whois
+matplotlib
