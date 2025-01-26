@@ -11,8 +11,8 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 def display_banner():
     """Display the tool's banner and author information."""
     print("===============================")
-    print("        ADVANCE IP-TRACER      ")
-    print("       AUTHOR: AKHIL   ")
+    print("        ADVANCE TOOL SUGGESTER      ")
+    print("       AUTHOR: RONAK   ")
     print("===============================")
     print("      ONLY FOR EDUCATIONAL PURPOSE")
     print("===============================\n")
