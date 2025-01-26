@@ -27,18 +27,18 @@ The interface includes **real-time charts**, a **terminal-style output**, and a 
 ## 🛠 **Installation**
 ### 1️⃣ **Clone or Download**
 
-#🛠 **Requirements**
--**Python 3.8+
--Pillow – Image processing
--Requests – URL checking
--Whois – WHOIS lookups
--Socket – IP resolution
--Tkinter – GUI framework
--Matplotlib – Data visualization**
+# 🛠 **Requirements**
+- **Python 3.8+
+- Pillow – Image processing
+- Requests – URL checking
+- Whois – WHOIS lookups
+- Socket – IP resolution
+- Tkinter – GUI framework
+- Matplotlib – Data visualization**
 
-#📸 **Screenshots**
-(Insert your tool's screenshot here)
+# 📸 **Screenshots**
+- 
 
-#⚠ **Disclaimer**
--**This tool is for educational purposes only. Do NOT use it on unauthorized websites. The developers are not responsible for any misuse**.
+# ⚠ **Disclaimer**
+- **This tool is for educational purposes only. Do NOT use it on unauthorized websites. The developers are not responsible for any misuse**.
 
