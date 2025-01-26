@@ -24,9 +24,6 @@ The interface includes **real-time charts**, a **terminal-style output**, and a 
 
 ---
 
-## 🛠 **Installation**
-### 1️⃣ **Clone or Download**
-
 # 🛠 **Requirements**
 - **Python 3.8+
 - Pillow – Image processing
@@ -41,4 +38,10 @@ The interface includes **real-time charts**, a **terminal-style output**, and a 
 
 # ⚠ **Disclaimer**
 - **This tool is for educational purposes only. Do NOT use it on unauthorized websites. The developers are not responsible for any misuse**.
+- 
+## 🛠 **Installation**
+```sh
+git clone https://github.com/TPG2244/tool-suggester
+cd Cyber-Recon-Dashboard
+pip install requirements.txt
 
