@@ -27,7 +27,7 @@ The interface includes **real-time charts**, a **terminal-style output**, and a 
 ## 🛠 **Installation**
 ### 1️⃣ **Clone or Download**
 
-####🛠 Requirements
+#🛠 **Requirements**
 -Python 3.8+
 -Pillow – Image processing
 -Requests – URL checking
@@ -36,9 +36,9 @@ The interface includes **real-time charts**, a **terminal-style output**, and a 
 -Tkinter – GUI framework
 -Matplotlib – Data visualization
 
-#####📸 Screenshots
+#📸 **Screenshots**
 (Insert your tool's screenshot here)
 
-#####⚠ Disclaimer
+#⚠ **Disclaimer**
 -This tool is for educational purposes only. Do NOT use it on unauthorized websites. The developers are not responsible for any misuse.
 
