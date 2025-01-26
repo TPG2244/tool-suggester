@@ -42,6 +42,7 @@ The interface includes **real-time charts**, a **terminal-style output**, and a 
 ## 🛠 **Installation**
 ```sh
 git clone https://github.com/TPG2244/tool-suggester
-cd Cyber-Recon-Dashboard
+cd tool-suggester
 pip install requirements.txt
+python3 tool.py
 
