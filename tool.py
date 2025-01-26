@@ -77,7 +77,7 @@ banner_label = tk.Label(root, text="===============================\n"
                                    "===============================\n"
                                    "      ONLY FOR EDUCATIONAL PURPOSE\n"
                                    "===============================", 
-                        font=("Consolas", 14), bg="black", fg="lime", justify="center")
+                        font=("Consolas", 14), bg="black", fg="red", justify="center")
 banner_label.pack(pady=10)
 
 style = ttk.Style()
